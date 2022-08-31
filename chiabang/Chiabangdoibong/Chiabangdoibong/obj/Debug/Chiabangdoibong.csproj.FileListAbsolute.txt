@@ -1,0 +1,7 @@
+E:\PV\chiabang\Chiabangdoibong\Chiabangdoibong\obj\Debug\Chiabangdoibong.csproj.AssemblyReference.cache
+E:\PV\chiabang\Chiabangdoibong\Chiabangdoibong\obj\Debug\Chiabangdoibong.csproj.CoreCompileInputs.cache
+E:\PV\chiabang\Chiabangdoibong\Chiabangdoibong\bin\Debug\Chiabangdoibong.exe.config
+E:\PV\chiabang\Chiabangdoibong\Chiabangdoibong\bin\Debug\Chiabangdoibong.exe
+E:\PV\chiabang\Chiabangdoibong\Chiabangdoibong\bin\Debug\Chiabangdoibong.pdb
+E:\PV\chiabang\Chiabangdoibong\Chiabangdoibong\obj\Debug\Chiabangdoibong.exe
+E:\PV\chiabang\Chiabangdoibong\Chiabangdoibong\obj\Debug\Chiabangdoibong.pdb
